@@ -1,0 +1,60 @@
+
+* O que é GIT
+
+- Sistema de controle de versão distribuído
+- Open-source
+- Pontos na história: commit (viagem no tempo)
+- Histórico de alterações no código
+- Voltar para qualquer ponto na história 
+- Controlar o fluxo de novas funcionalidades
+- Ramificações: branch (universos paralelos)
+- Vários devs no mesmo projeto
+- Análise e resolução de conflitos
+
+* Working directory
+- Todos os nossos arquivos
+- Working tree (algumas vezes chamado de)
+
+* Stage area
+- Preparação dos nossos arquivos, para serem comitados.
+- Index 
+- Stage tree
+
+* Repository (local)
+- Banco de dados dos nossos arquivos
+- Onde ficarão os pontos da história
+- Ou o histórico
+
+* Conceitos
+- Estágio de arquivos
+- Git Workflow
+- Hash SHA-1
+- Revisão prática
+
+* Alterando arquivos
+
+- Adicionando arquivos com git add
+- Editando arquivos
+- Modificações com git diff
+- Git diff staged
+- Deletando arquivos
+- Renomeando arquivos
+- Movendo arquivos 
+
+* Desfazendo mudanças 
+
+- Desfazendo modificações
+- Trazendo de volta do staged 
+- Corrigindo o último commit
+- Removendo arquivos não rastreados
+- Revertendo um commit
+
+* Usando Git em um projeto real
+
+- Iniciando um novo projeto
+- Aicionando e verificando alterações
+- Staging e commits com atalho
+- Ver modificações em diversos pontos da história
+- Ignorando arquivos e diretórios indesejados
+
+
