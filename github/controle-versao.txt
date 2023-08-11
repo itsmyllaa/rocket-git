@@ -1,0 +1,12 @@
+* Controle de versão
+
+- Registro de alterações em um ou mais arquivos
+- Lembrar versões especificadas mais tarde
+- Reverter para estados anteriores determinados arquivos ou projeto inteiro
+- Compare as mudanças ao longo do tempo
+- Veja quem modificou pela última vez algo que pode estar causando um problema
+- Quem introduziu um problema e quando
+- Se você estragar tudo ou perder arquivos, você pode facilmente recuperar.
+- E ETC...
+
+VCS - Version Control System
